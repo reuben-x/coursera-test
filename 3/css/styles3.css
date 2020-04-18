@@ -1,0 +1,50 @@
+#header-nav{
+	background-color: grey;
+	border-radius: 0;
+}
+
+#main-head{
+	padding: 10px 10px 10px 25px;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+#collapsable-nav{
+	width: 100%;
+	color: black;
+}
+
+#nav-list {
+	color: black;
+	width: 100%;
+	text-align: center;
+	font-size: 1.8em;
+	font-weight: bold;
+	background-color: white
+}
+
+.menu{
+	font-size: 30px;
+	font-weight: bolder;
+	text-align: center;
+	align-content: center;
+}
+
+.container div div{
+  border: 1px solid black;
+  background-color: grey;
+  width: 100%;
+  font-family: arial;
+  color:black;
+  margin:6px;
+}
+
+div section{
+	font-size: 15pt;
+	text-align: center;
+	font-weight: bold;
+}
+
+.row{
+	margin: 5px 5px 5px 3px;
+}
